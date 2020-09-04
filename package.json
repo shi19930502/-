@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "element-ui": "^2.4.6",
-    "node-sass": "^4.8.3",
+    "node-sass": "^4.13.1",
     "sass-loader": "^6.0.7",
     "vant": "^1.1.13",
     "vant-css": "^1.0.1",
